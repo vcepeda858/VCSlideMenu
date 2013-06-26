@@ -154,7 +154,7 @@
         case MainMenuItemPage9:
         case MainMenuItemPage10:
         default:
-            return 220;
+            return 200;
     }
 }
 
